@@ -7,7 +7,7 @@ Google Apps ScriptでTwitter APIを扱うためのライブラリです。
 ## ライブラリの導入
 1. Google Apps Script エディタを開く
 1. メニューバーの **リソース** -> **ライブラリ** を選択
-1. プロジェクトキー `1973Ox7NzyoDNNGSF2HMjOu441sq9_sJvIlzrka0P_uDnZt7emgIBo04Y` を入力 -> **追加**
+1. スクリプトID `1CIaZhVF8e8d_RVv5T1GGJrkVZjZhv4Cg-Nsylwv1OUa8x7nxeQjNdll3` を入力 -> **追加**
 1. 最新バージョンを選択 -> **保存**
 
 
